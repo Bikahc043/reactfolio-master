@@ -3,7 +3,7 @@ const INFO = {
 		title: "Bikash",
 		name: "Bikash",
 		email: "chetix307@gmail.com",
-		logo: "../logo.png",
+		logo: "../logoo.jpg",
 	},
 
 	socials: {
@@ -38,7 +38,7 @@ const INFO = {
 				"Basic Weather App Overview This is a simple weather app project that provides users with basic weather informationb with the help of Openweathermap Api",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://weatherwebapp-d9b04cx0z-bikashs-projects-1851e899.vercel.app/",
+			link: "https://weatherwebapp-wine.vercel.app/",
 		},
 
 		{
